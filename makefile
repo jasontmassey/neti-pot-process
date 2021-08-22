@@ -1,4 +1,4 @@
 CMD=asciidoctor
 
-neti.html: neti.txt
+index.html: neti.txt
 	${CMD} $^
