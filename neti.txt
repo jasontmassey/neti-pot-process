@@ -4,7 +4,7 @@
 
 I have endured more than thirty years of sinus infections and two sinus surgeries.
 During my cigarette-smoking years, I would experience at least two sinus infections annually.
-After quitting smoking, I would still get one and perhaps two sinus infections per year.
+After quitting smoking, I would still get one, perhaps two, sinus infections per year.
 Circa 2017, while being treated for sinusitis, my doctor recommended I sample a "`neti pot`" to see if it improved symptoms.
 
 image::neti-pot.webp[width=33%,align="center"]
@@ -63,7 +63,7 @@ my performing this procedure on a daily basis has kept me sinusitis-free for ove
 . Seal then mix pot.
 .. Screw lid onto pot.
 .. Walk (or stroll) to a nearby sink.
-.. Place thumb over the small hole in the lid.
+.. Place thumb over the small hole in the lid; place finger over spout's tip.
 .. Twist pot upside down, allowing saline to dissolve into water. (Repeat as needed.)
 . Pour pot.
 .. If necessary, allow water to cool a bit.

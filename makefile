@@ -1,4 +1,4 @@
 CMD=asciidoctor
 
 index.html: neti.txt
-	${CMD} $^
+	${CMD} $^ -o $@
